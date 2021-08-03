@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.matematics.mathru">
+    package="mara.tata.run">
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -17,7 +17,7 @@
         android:requestLegacyExternalStorage="true"
         android:supportsRtl="true"
         android:theme="@style/Theme.Design.NoActionBar">
-        <activity android:name="com.matematics.mathru.WaitingActivity"
+        <activity android:name=".WaitingActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,15 +25,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.matematics.mathru.MathActivity"
+        <activity android:name=".MathActivity"
             android:windowSoftInputMode="adjustResize"
             android:configChanges="orientation|screenSize" />
-        <activity android:name="com.matematics.mathru.RestartActivity"
+        <activity android:name=".RestartActivity"
             android:screenOrientation="portrait" />
-        <activity android:name="com.matematics.mathru.GameActivity"
+        <activity android:name=".GameActivity"
             android:screenOrientation="portrait" />
-        <activity android:name="com.matematics.mathru.MainActivity"
-            android:screenOrientation="portrait" />
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
+        </activity>
 
         <meta-data
             android:name="preloaded_fonts"

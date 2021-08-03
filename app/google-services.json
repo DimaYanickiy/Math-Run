@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1077834264286",
-    "project_id": "mathrun-4c5a2",
-    "storage_bucket": "mathrun-4c5a2.appspot.com"
+    "project_number": "767731911161",
+    "project_id": "mathrun-b6ce6",
+    "storage_bucket": "mathrun-b6ce6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1077834264286:android:5e46cc5ff05b0dc90f9c4f",
+        "mobilesdk_app_id": "1:767731911161:android:42fee5b7e85ee761d99528",
         "android_client_info": {
-          "package_name": "com.matematics.mathru"
+          "package_name": "mara.tata.run"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1077834264286-is8og03oplp6e1mdi27gn4a6slm4fekh.apps.googleusercontent.com",
+          "client_id": "767731911161-970h4lo57r2f5gugo29mkhbpm1ispalh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC6e-DuQ5lzyRdKQFNa10Tm0SZ5rr2Puek"
+          "current_key": "AIzaSyAVKDAP7QHaIeaq79OOiMZua-NRE-LhFfc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1077834264286-is8og03oplp6e1mdi27gn4a6slm4fekh.apps.googleusercontent.com",
+              "client_id": "767731911161-970h4lo57r2f5gugo29mkhbpm1ispalh.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

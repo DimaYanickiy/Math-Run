@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MathActivity">
+    tools:context="mara.tata.run.MathActivity">
 
     <ProgressBar
         android:id="@+id/progress"
